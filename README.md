@@ -21,7 +21,7 @@
        In this section you should have:
             - 4 destinations per row when the screen is very large
             - 3 destinations per row when you are on a tablet (or a smaller window)
-            - 2 destinations per row when you are on a small scree    * 
+            - 2 destinations per row when you are on a small scree 
      5) Implement the "Welcome Summer" section. In this section you'll propose 6 destinations to your user
         In this section you should have:
             - 6 destinations per row when the screen is very large
@@ -30,7 +30,7 @@
      
       6) Implement a "Deal of the day" section. In this section you'll have:
             - 66% of the page with a picture of the destination
-            - 33% with Name, dates, price and a short descriptio  * 
+            - 33% with Name, dates, price and a short descriptio 
       7) Make the "Deal of the day" section disappear on a mobile screens
       8) Add to the Welcome Summer destinations section a large shadow
       9) Create a section Last Minute, in which you'll display the pictures from the destinations as Cards
